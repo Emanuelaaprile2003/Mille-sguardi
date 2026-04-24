@@ -1,13 +1,8 @@
-# CHIMERA Name
+# Mille sguardi
 
-This text appears in the overlay opened by the `ABOUT` label. Click `X` to close and return to the 3D view.
+“Mille sguardi” è il nome della chimera. Vuole rappresentare un pavone attraverso l’uso dell’immagine del mio corpo e del pavone stesso. Le mie gambe e le mie braccia vanno a formare quella che è la coda di piume del pavone reale, creando quasi una spirale. 
 
-Placeholder text for layout testing: Chimera research unfolds across fragmented memories, synthetic anatomies, and speculative rituals that merge archival traces with generated futures. This project explores hybrid embodiment through digital sculpture, moving between mythological residue and machine perception. Each form behaves like a temporary host: unstable, layered, and responsive to context. The narrative remains intentionally open, inviting interpretation through ambiguity and transformation.
+Ma andiamo a spiegare il perché io abbia scelto questo nome. Il pavone assume in epoca medievale diversi significati, un simbolismo derivante dalla sua Bellezza, Gloria, Incorruttibilità, Resurrezione e Immortalità, in alcuni casi anche Giustizia.
+Questi significati sono già presenti in epoca classica, il pavone doveva evocare il mostro dai cento occhi, Argo, messo da Era a guardia della bella Io amata da Zeus, perché il dio non giacesse con lei. Mercurio uccise poi Argo, ed Era ne riportò gli occhi sulla coda del pavone, che divenne il suo animale sacro.
 
-
-
-PS: You can use Markdown formatting, for example:
-
-- Bullet lists
-- **Bold text**
-- *Italic text*
+Le piume di pavone, nel contesto esoterico e spirituale, simboleggiano la totalità dello spirito, l'immortalità, la rinascita e il risveglio spirituale grazie alla loro somiglianza con un "occhio" divino. Sono associate a protezione dalle energie negative, saggezza, nobiltà e alla capacità di trasformare il "veleno" (negatività) in bellezza e luce, riflettendo la purezza interiore.
